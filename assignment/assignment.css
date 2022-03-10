@@ -1,0 +1,20 @@
+.game_set {
+  display: flex;
+}
+
+#number_range {
+  display: flex;
+  align-items: center;
+}
+
+#number_range input {
+  margin-left: 15px;
+}
+
+.inline {
+  display: inline;
+}
+
+.hidden {
+  display: none;
+}
